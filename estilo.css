@@ -42,19 +42,19 @@ h1 {
 
 .pokemon .img-container {
     background-color: rgba(255, 255, 255, 0.6);
-    border-radius: 50%;
-    width: 120px;
-    height: 120px;
+    border-radius: 20%;
+    width: 100px;
+    height: 100px;
     text-align: center;
 }
 
 .pokemon .img-container img {
     margin-top: 20px;
-    max-width: 90%;
+    max-width: 75%;
 }
 
 .pokemon .info {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .pokemon .number {
@@ -68,17 +68,6 @@ h1 {
     margin: 15px 0 7px;
     letter-spacing: 1px;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 /* SOCIAL PANEL CSS */
 .social-panel-container {
