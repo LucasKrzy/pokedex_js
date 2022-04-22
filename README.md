@@ -13,7 +13,7 @@
 
 - [Descrição](#descrição)
 
-![image](https://user-images.githubusercontent.com/6373438/164748621-52143a8d-5687-4662-9690-efbb3919222b.png)
+![image](https://user-images.githubusercontent.com/6373438/164749018-43f9735b-b65c-48b2-a4fd-77a88a88200a.png)
   
 # Descrição
 
