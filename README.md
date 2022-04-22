@@ -9,77 +9,21 @@
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/pokedex_js?style=for-the-badge)
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
-![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
+![Banner do Projeto](https://user-images.githubusercontent.com/6373438/164748094-b6a506bf-48a8-4b51-ae04-4da95139dc08.png)
 
 - [Descrição](#descrição)
-- [Instruções](#instruções)
-- [Tecnologias Envolvidas](#tecnologias-envolvidas)
-- [Roadmap](#roadmap)
-- [Outras informações](#outras-informações)
-- [Licença](#licença)
-- [Equipe](#equipe)
+
+![image](https://user-images.githubusercontent.com/6373438/164748621-52143a8d-5687-4662-9690-efbb3919222b.png)
   
 # Descrição
 
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
+A ideia deste projeto foi desenvolver uma PokeDex que apresenta o nome do Pokemon, seu tipo e a sua imagem. Utilizando apenas HTML, CSS e JavaScript. 
 
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
+Recuperamos essas informações a partir de 2 APIs. Uma para os dados e outra para as imagens(essa infelizmente não está funcionando muito bem, estou pensando em criar uma nossa com Python).
 
 <!-- 
     AS IMAGENS DE BANNERS EU COLOQUEI UM TAMANHO DE 1280 X 300 
     PARA IMAGENS DE TELA E OUTRAS NECESSIDADES, COLOQUE 1280 X 1280
 -->
-![IMAGEM DO PROJETO](https://user-images.githubusercontent.com/6373438/157749627-e718fa74-f7ce-49e8-9ffa-81271f47daf5.png)
+![image](https://user-images.githubusercontent.com/6373438/164748830-e7ebe8a3-5bc2-4317-a03a-a9379d40fc13.png)
 
-# Instruções
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-# Tecnologias Envolvidas
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-- Tech 01
-- Tech 02
-- Tech 03
-
-# Roadmap
-- [x] Configuração do Projeto
-- [ ] Criação da Interface
-- [ ] Correção de Bugs 
-
-# Outras informações
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-# Licença
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-# Equipe
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-Pessoa | Cargo | Social Link
-:-----:|:-----:|:----------:
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
