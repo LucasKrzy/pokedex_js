@@ -21,6 +21,8 @@ A ideia deste projeto foi desenvolver uma PokeDex que apresenta o nome do Pokemo
 
 Recuperamos essas informações a partir de 2 APIs. Uma para os dados e outra para as imagens(essa infelizmente não está funcionando muito bem, estou pensando em criar uma nossa com Python).
 
+Para acessar o projeto hospedado [clique aqui](https://adrianoleitedasilva.github.io/pokedex_js/)
+
 <!-- 
     AS IMAGENS DE BANNERS EU COLOQUEI UM TAMANHO DE 1280 X 300 
     PARA IMAGENS DE TELA E OUTRAS NECESSIDADES, COLOQUE 1280 X 1280
